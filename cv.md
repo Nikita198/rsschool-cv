@@ -25,3 +25,12 @@ function sumTo(n) {
 alert( sumTo(100) );
 ```
 ## **Experience**
+##### No work experience
+
+## **Education**
+##### I'm studying
+
+## **English Level**
+##### A1 Pre-Intermediate
+
+https://Nikita198.github.io/rsschool-cv/cv
