@@ -1,10 +1,10 @@
-
 # Nikita Kozlov
 
 
 ## **Contacts**
 ##### *Email*:nik88kozlov@gmail.com
 ##### *Phone Number*:+375 44 549 11 47
+
 ## **About me** 
 ##### I work as a design engineer
 ##### I am hardworking and stress-resistant
@@ -25,12 +25,10 @@ function sumTo(n) {
 alert( sumTo(100) );
 ```
 ## **Experience**
-##### No work experience
+##### I haven’t  work experience
 
 ## **Education**
 ##### I'm studying
 
 ## **English Level**
-##### A1 Pre-Intermediate
-
-https://Nikita198.github.io/rsschool-cv/cv
+##### A2 Pre-Intermediatee
